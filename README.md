@@ -14,7 +14,7 @@
 <br>
 <div align="center">
   
-<img src="https://github.com/FrancoSbaffi/AliexpressClone/assets/99909205/7a139b0b-e066-431e-9d24-d29748942d57"
+<img src="https://github.com/FrancoSbaffi/LandingRebuild/assets/99909205/841479a4-8f4c-4248-8c6a-de819d95aa9a"
  alt="Portfolio Image" style="border-radius: 10px;">
   
 </div>
