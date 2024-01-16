@@ -25,6 +25,4 @@
 - [**Framer Motion**](https://www.framer.com/motion/) - A library for creating animations and gestures in React applications.
 - [**GSAP**](https://greensock.com/gsap/) - GreenSock Animation Platform, a powerful library for creating high-performance, complex animations in HTML, CSS, and JavaScript.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
